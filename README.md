@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏆 Sistema Comentarista - App Flutter
 
 ## 📱 Visão Geral
@@ -358,3 +359,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 *Transformando a gestão de rodeios em uma experiência digital moderna e eficiente.*
 
+=======
+# Comentarista
+App da empresa que presto serviço
+>>>>>>> c50715cb3e504dc20cc48af36c9baebdb342f153
