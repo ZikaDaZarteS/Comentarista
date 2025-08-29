@@ -1,0 +1,1 @@
+ C:\\Comentarista\\.dart_tool\\flutter_build\\1a8fa4b938a50f341beaaa176d34a70d\\native_assets.json: 

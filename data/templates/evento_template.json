@@ -1,0 +1,109 @@
+{
+  "evento": {
+    "nome": "NOME DO EVENTO",
+    "data_inicio": "2025-01-01",
+    "data_fim": "2025-01-01",
+    "local": "LOCAL DO EVENTO",
+    "tipo": "RODEIO",
+    "status": "PENDENTE",
+    "descricao": "Descrição do evento",
+    "organizador": "Nome do organizador",
+    "contato": {
+      "telefone": "(11) 9999-9999",
+      "email": "contato@evento.com"
+    }
+  },
+  "configuracoes": {
+    "pontuacao_maxima": 100,
+    "tempo_limite": 8.0,
+    "numero_juizes": 4,
+    "criterios_desempate": [
+      "Tempo de montaria",
+      "Nota do animal",
+      "Nota do competidor"
+    ]
+  },
+  "etapas": [
+    {
+      "nome": "ROUND 1",
+      "ordem": 1,
+      "tipo": "ELIMINATÓRIA",
+      "descricao": "Primeira rodada eliminatória"
+    },
+    {
+      "nome": "ROUND 3",
+      "ordem": 2,
+      "tipo": "ELIMINATÓRIA",
+      "descricao": "Terceira rodada"
+    },
+    {
+      "nome": "ROUND4",
+      "ordem": 3,
+      "tipo": "ELIMINATÓRIA",
+      "descricao": "Quarta rodada"
+    },
+    {
+      "nome": "ROUND5",
+      "ordem": 4,
+      "tipo": "FINAL",
+      "descricao": "Rodada final"
+    }
+  ],
+  "profissionais": [
+    {
+      "nome": "JUIZ 1",
+      "profissao": "JUIZ DE ARENA",
+      "cidade": "CIDADE",
+      "uf": "SP"
+    },
+    {
+      "nome": "JUIZ 2",
+      "profissao": "JUIZ DE ARENA",
+      "cidade": "CIDADE",
+      "uf": "SP"
+    },
+    {
+      "nome": "JUIZ 3",
+      "profissao": "JUIZ DE ARENA",
+      "cidade": "CIDADE",
+      "uf": "SP"
+    },
+    {
+      "nome": "JUIZ 4",
+      "profissao": "JUIZ DE ARENA",
+      "cidade": "CIDADE",
+      "uf": "SP"
+    }
+  ],
+  "tropeiros": [
+    {
+      "nome": "NOME DO TROPEIRO",
+      "cidade": "CIDADE",
+      "uf": "SP",
+      "contato": {
+        "telefone": "(11) 9999-9999",
+        "email": "tropeiro@email.com"
+      }
+    }
+  ],
+  "competidores": [
+    {
+      "nome": "NOME DO COMPETIDOR",
+      "cidade": "CIDADE",
+      "uf": "SP",
+      "cpf": "000.000.000-00",
+      "rg": "00.000.000-0",
+      "data_nascimento": "1990-01-01",
+      "pis": "000.00000.00-0",
+      "descricao": "Descrição do competidor"
+    }
+  ],
+  "animais": [
+    {
+      "nome": "NOME DO ANIMAL",
+      "tropeiro": "NOME DO TROPEIRO",
+      "descricao": "Descrição do animal"
+    }
+  ]
+}
+

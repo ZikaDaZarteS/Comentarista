@@ -1,0 +1,3170 @@
+{
+  "evento": "ENGENHO RODEO FEST",
+  "round": [
+    {
+      "animal": "ANDROID",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": "BRAGANÇA PAULISTA -SP",
+      "cidade_tropeiro": "1-SP",
+      "competidor": "ALEF DE CAMPOS LIMA",
+      "competidor_descricao": "",
+      "cpf": "",
+      "data_nascimento": "",
+      "etapa": "ROUND5",
+      "id": 3328,
+      "id_animal": 741,
+      "id_competidor": 635,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "C",
+      "nota": 0,
+      "nota_total": 146,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": null,
+      "pis": "",
+      "proprietario": "1",
+      "rg": "",
+      "rounds": [
+        {
+          "animal": "SNAIPER",
+          "competidor": "ALEF DE CAMPOS LIMA",
+          "etapa": "ROUND 1",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "TERRORISTA",
+          "competidor": "ALEF DE CAMPOS LIMA",
+          "etapa": "ROUND 3",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "MASSACRE",
+          "competidor": "ALEF DE CAMPOS LIMA",
+          "etapa": "ROUND4",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "HILUX",
+          "competidor": "ALEF DE CAMPOS LIMA",
+          "etapa": "ROUND4",
+          "nota_animal": 48.5,
+          "nota_competidor": 48.75
+        },
+        {
+          "animal": "ARROGANTE",
+          "competidor": "ALEF DE CAMPOS LIMA",
+          "etapa": "ROUND4",
+          "nota_animal": 120,
+          "nota_competidor": 123
+        },
+        {
+          "animal": "ANDROID",
+          "competidor": "ALEF DE CAMPOS LIMA",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        }
+      ],
+      "rr": null,
+      "seq": 1,
+      "tempo": 0,
+      "tipo": 1,
+      "tropeiro": "CIA FORNAGIO"
+    },
+    {
+      "animal": "MASSACRE",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": "BARRO-CE",
+      "cidade_tropeiro": "1-SP",
+      "competidor": "ANTÔNIO ALVES BENTO ",
+      "competidor_descricao": "",
+      "cpf": "",
+      "data_nascimento": "",
+      "etapa": "ROUND5",
+      "id": 3321,
+      "id_animal": 537,
+      "id_competidor": 631,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "E",
+      "nota": 0,
+      "nota_total": 96,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": null,
+      "pis": "",
+      "proprietario": "1",
+      "rg": "",
+      "rounds": [
+        {
+          "animal": "CANHOTO",
+          "competidor": "ANTÔNIO ALVES BENTO ",
+          "etapa": "ROUND 1",
+          "nota_animal": 47.5,
+          "nota_competidor": 48.5
+        },
+        {
+          "animal": "ANDROID",
+          "competidor": "ANTÔNIO ALVES BENTO ",
+          "etapa": "ROUND 3",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "MASSACRE",
+          "competidor": "ANTÔNIO ALVES BENTO ",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        }
+      ],
+      "rr": null,
+      "seq": 2,
+      "tempo": 0,
+      "tipo": 1,
+      "tropeiro": "CIA FORNAGIO"
+    },
+    {
+      "animal": "AAAAAAAA",
+      "animal_descricao": "ASDASDASDAS",
+      "bonus": 0,
+      "cidade": "BRODOWSKI-SP",
+      "cidade_tropeiro": "AMPARO-SP",
+      "competidor": "ERICK EXPEDITO",
+      "competidor_descricao": "",
+      "cpf": "",
+      "data_nascimento": "",
+      "etapa": "ROUND5",
+      "id": 3325,
+      "id_animal": 745,
+      "id_competidor": 589,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "C",
+      "nota": 0,
+      "nota_total": 84.25,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": null,
+      "pis": "",
+      "proprietario": "CAL / JOÃO BERTOLA",
+      "rg": "",
+      "rounds": [
+        {
+          "animal": "GATO PRETO",
+          "competidor": "ERICK EXPEDITO",
+          "etapa": "ROUND 1",
+          "nota_animal": 42.5,
+          "nota_competidor": 41.75
+        },
+        {
+          "animal": "AAAAAAAA",
+          "competidor": "ERICK EXPEDITO",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        }
+      ],
+      "rr": null,
+      "seq": 3,
+      "tempo": 0,
+      "tipo": 1,
+      "tropeiro": "CIA FORTALEZA"
+    },
+    {
+      "animal": "TERRORISTA",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": " RIO PRETO-SP",
+      "cidade_tropeiro": "1-SP",
+      "competidor": "CESAR CRISTIANO",
+      "competidor_descricao": "",
+      "cpf": "",
+      "data_nascimento": "",
+      "etapa": "ROUND5",
+      "id": 3322,
+      "id_animal": 543,
+      "id_competidor": 686,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "C",
+      "nota": 0,
+      "nota_total": 45.75,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": null,
+      "pis": "",
+      "proprietario": "1",
+      "rg": "",
+      "rounds": [
+        {
+          "animal": "CORROSIVO",
+          "competidor": "CESAR CRISTIANO",
+          "etapa": "ROUND 1",
+          "nota_animal": 44.5,
+          "nota_competidor": 42.8
+        },
+        {
+          "animal": "012",
+          "competidor": "CESAR CRISTIANO",
+          "etapa": "ROUND 1",
+          "nota_animal": 22.25,
+          "nota_competidor": 23.5
+        },
+        {
+          "animal": "URSO",
+          "competidor": "CESAR CRISTIANO",
+          "etapa": "ROUND4",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "ANDROID",
+          "competidor": "CESAR CRISTIANO",
+          "etapa": "ROUND4",
+          "nota_animal": 54,
+          "nota_competidor": 24.5
+        },
+        {
+          "animal": "TERRORISTA",
+          "competidor": "CESAR CRISTIANO",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        }
+      ],
+      "rr": null,
+      "seq": 4,
+      "tempo": 0,
+      "tipo": 1,
+      "tropeiro": "CIA FORNAGIO"
+    },
+    {
+      "animal": "ALADIM",
+      "animal_descricao": "DEU CAMPEAO HORTOLANDIA 2024\nSAI PULANDO COM AS 4",
+      "bonus": 0,
+      "cidade": "DIRCEU ARCOVERDE -PI",
+      "cidade_tropeiro": "AMPARO-SP",
+      "competidor": "EDILVAN OLIVEIRA DE SOUSA ",
+      "competidor_descricao": "Campeão Sapucaí Mirim\nFinalista em Monte Mor\nCampeão Itupeva\nCampeão Sumaré\nCampeão Capivari",
+      "cpf": "",
+      "data_nascimento": "",
+      "etapa": "ROUND5",
+      "id": 3324,
+      "id_animal": 512,
+      "id_competidor": 661,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "C",
+      "nota": 0,
+      "nota_total": 22.62,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": null,
+      "pis": "",
+      "proprietario": "CAL / JOÃO BERTOLA",
+      "rg": "",
+      "rounds": [
+        {
+          "animal": "PIXOTE",
+          "competidor": "EDILVAN OLIVEIRA DE SOUSA ",
+          "etapa": "ROUND 1",
+          "nota_animal": 25,
+          "nota_competidor": 20.25
+        },
+        {
+          "animal": "ALADIM",
+          "competidor": "EDILVAN OLIVEIRA DE SOUSA ",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        }
+      ],
+      "rr": null,
+      "seq": 5,
+      "tempo": 0,
+      "tipo": 1,
+      "tropeiro": "CIA FORTALEZA"
+    },
+    {
+      "animal": "URSO",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": "SÃO ROQUE-SP",
+      "cidade_tropeiro": "1-SP",
+      "competidor": "EDUARDO MARTINS",
+      "competidor_descricao": "Bi-Campeão São Roque, Revelação pelo Guilherme Marchi 2022, Finalista Itamogi 2022/2023, Finalista Serrana 2023, Finalista Bom Sucesso de Itararé 2022, Finalista Araçariguama 2022, Finalista Jandira 2024, Finalista Curiuva-PR 2024",
+      "cpf": "",
+      "data_nascimento": "",
+      "etapa": "ROUND5",
+      "id": 3326,
+      "id_animal": 539,
+      "id_competidor": 591,
+      "id_etapa": 284,
+      "id_ocorrencia": 11,
+      "lado": "E",
+      "nota": 0,
+      "nota_total": 0,
+      "notas": [
+        {
+          "created_at": "2025-08-22T17:27:11.64424-03:00",
+          "id": 4111,
+          "id_profissional": 58,
+          "id_sorteio": 3326,
+          "nota_animal": 0,
+          "nota_bonus": 0,
+          "nota_competidor": 0,
+          "profissional": "JOAO CARLOS",
+          "tempo": 0,
+          "updated_at": "2025-08-22T17:27:11.64424-03:00",
+          "versao": null
+        }
+      ],
+      "ocorrencia": "RE-RIDER",
+      "ordem": null,
+      "pis": "",
+      "proprietario": "1",
+      "rg": "",
+      "rounds": [
+        {
+          "animal": "GIBAN",
+          "competidor": "EDUARDO MARTINS",
+          "etapa": "ROUND 1",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "ATLAS",
+          "competidor": "EDUARDO MARTINS",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "URSO",
+          "competidor": "EDUARDO MARTINS",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        }
+      ],
+      "rr": 3331,
+      "seq": 6,
+      "tempo": 0,
+      "tipo": 1,
+      "tropeiro": "CIA FORNAGIO"
+    },
+    {
+      "animal": "ARTISTA",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": " FRUTAL-SP",
+      "cidade_tropeiro": "1-SP",
+      "competidor": "ALLAN MIGUEL",
+      "competidor_descricao": "",
+      "cpf": "",
+      "data_nascimento": "",
+      "etapa": "ROUND5",
+      "id": 3323,
+      "id_animal": 540,
+      "id_competidor": 690,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "E",
+      "nota": 0,
+      "nota_total": 0,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": null,
+      "pis": "",
+      "proprietario": "1",
+      "rg": "",
+      "rounds": [
+        {
+          "animal": "REI DO BAILE",
+          "competidor": "ALLAN MIGUEL",
+          "etapa": "ROUND 1",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "DESEJO",
+          "competidor": "ALLAN MIGUEL",
+          "etapa": "ROUND 3",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "ATLAS",
+          "competidor": "ALLAN MIGUEL",
+          "etapa": "ROUND4",
+          "nota_animal": 40,
+          "nota_competidor": 50
+        },
+        {
+          "animal": "TRIBUNAL",
+          "competidor": "ALLAN MIGUEL",
+          "etapa": "ROUND4",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "ARTISTA",
+          "competidor": "ALLAN MIGUEL",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        }
+      ],
+      "rr": null,
+      "seq": 7,
+      "tempo": 0,
+      "tipo": 1,
+      "tropeiro": "CIA FORNAGIO"
+    },
+    {
+      "animal": "TRIBUNAL",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": "PIRACICABA -SP",
+      "cidade_tropeiro": "1-SP",
+      "competidor": "DANIEL ALEXANDRE LOPES DOS SANTOS ",
+      "competidor_descricao": "Semifinalista de Charqueada 2024\nSemifinalista Expo Engenheiro Coelho 2024\n5° Colocado Rodeio de Corumbátai 2024",
+      "cpf": "",
+      "data_nascimento": "",
+      "etapa": "ROUND5",
+      "id": 3327,
+      "id_animal": 541,
+      "id_competidor": 662,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "C",
+      "nota": 0,
+      "nota_total": 0,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": null,
+      "pis": "",
+      "proprietario": "1",
+      "rg": "",
+      "rounds": [
+        {
+          "animal": "DESEJO",
+          "competidor": "DANIEL ALEXANDRE LOPES DOS SANTOS ",
+          "etapa": "ROUND 1",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "REI DO BAILE",
+          "competidor": "DANIEL ALEXANDRE LOPES DOS SANTOS ",
+          "etapa": "ROUND 3",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "TRIBUNAL",
+          "competidor": "DANIEL ALEXANDRE LOPES DOS SANTOS ",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        }
+      ],
+      "rr": null,
+      "seq": 8,
+      "tempo": 0,
+      "tipo": 1,
+      "tropeiro": "CIA FORNAGIO"
+    },
+    {
+      "animal": "HILUX",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": "PAULINIA -SP",
+      "cidade_tropeiro": "1-SP",
+      "competidor": "EVERTON DOS SANTOS ",
+      "competidor_descricao": "",
+      "cpf": "",
+      "data_nascimento": "",
+      "etapa": "ROUND5",
+      "id": 3329,
+      "id_animal": 538,
+      "id_competidor": 590,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "E",
+      "nota": 0,
+      "nota_total": 0,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": null,
+      "pis": "",
+      "proprietario": "1",
+      "rg": "",
+      "rounds": [
+        {
+          "animal": "BRIGA DE GALO",
+          "competidor": "EVERTON DOS SANTOS ",
+          "etapa": "ROUND 1",
+          "nota_animal": 48.25,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "HILUX",
+          "competidor": "EVERTON DOS SANTOS ",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        }
+      ],
+      "rr": null,
+      "seq": 9,
+      "tempo": 0,
+      "tipo": 1,
+      "tropeiro": "CIA FORNAGIO"
+    },
+    {
+      "animal": "ARROGANTE",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": " -SP",
+      "cidade_tropeiro": "AMPARO-SP",
+      "competidor": "DANIEL MORAIS",
+      "competidor_descricao": "",
+      "cpf": "",
+      "data_nascimento": "",
+      "etapa": "ROUND5",
+      "id": 3330,
+      "id_animal": 514,
+      "id_competidor": 688,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "C",
+      "nota": 0,
+      "nota_total": 0,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": null,
+      "pis": "",
+      "proprietario": "CAL / JOÃO BERTOLA",
+      "rg": "",
+      "rounds": [
+        {
+          "animal": "MAR VERMELHO",
+          "competidor": "DANIEL MORAIS",
+          "etapa": "ROUND 1",
+          "nota_animal": 45.5,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "ARROGANTE",
+          "competidor": "DANIEL MORAIS",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        }
+      ],
+      "rr": null,
+      "seq": 10,
+      "tempo": 0,
+      "tipo": 1,
+      "tropeiro": "CIA FORTALEZA"
+    },
+    {
+      "animal": "ATLAS",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": "SÃO ROQUE-SP",
+      "cidade_tropeiro": "AMPARO-SP",
+      "competidor": "EDUARDO MARTINS",
+      "competidor_descricao": "Bi-Campeão São Roque, Revelação pelo Guilherme Marchi 2022, Finalista Itamogi 2022/2023, Finalista Serrana 2023, Finalista Bom Sucesso de Itararé 2022, Finalista Araçariguama 2022, Finalista Jandira 2024, Finalista Curiuva-PR 2024",
+      "cpf": "",
+      "data_nascimento": "",
+      "etapa": "ROUND5",
+      "id": 3331,
+      "id_animal": 510,
+      "id_competidor": 591,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "C",
+      "nota": 0,
+      "nota_total": 0,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": 1,
+      "pis": "",
+      "proprietario": "CAL / JOÃO BERTOLA",
+      "rg": "",
+      "rounds": [
+        {
+          "animal": "GIBAN",
+          "competidor": "EDUARDO MARTINS",
+          "etapa": "ROUND 1",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "ATLAS",
+          "competidor": "EDUARDO MARTINS",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        },
+        {
+          "animal": "URSO",
+          "competidor": "EDUARDO MARTINS",
+          "etapa": "ROUND5",
+          "nota_animal": 0,
+          "nota_competidor": 0
+        }
+      ],
+      "rr": null,
+      "seq": 11,
+      "tempo": 0,
+      "tipo": 2,
+      "tropeiro": "CIA FORTALEZA"
+    },
+    {
+      "animal": "ATRITO",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": "-",
+      "cidade_tropeiro": "AMPARO-SP",
+      "competidor": "",
+      "competidor_descricao": "",
+      "cpf": null,
+      "data_nascimento": null,
+      "etapa": "ROUND5",
+      "id": 3332,
+      "id_animal": 518,
+      "id_competidor": null,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "C",
+      "nota": 0,
+      "nota_total": 0,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": 2,
+      "pis": null,
+      "proprietario": "CAL / JOÃO BERTOLA",
+      "rg": null,
+      "rounds": [],
+      "rr": null,
+      "seq": 12,
+      "tempo": 0,
+      "tipo": 2,
+      "tropeiro": "CIA FORTALEZA"
+    },
+    {
+      "animal": "BEM BOLADO",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": "-",
+      "cidade_tropeiro": "AMPARO-SP",
+      "competidor": "",
+      "competidor_descricao": "",
+      "cpf": null,
+      "data_nascimento": null,
+      "etapa": "ROUND5",
+      "id": 3333,
+      "id_animal": 521,
+      "id_competidor": null,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "E",
+      "nota": 0,
+      "nota_total": 0,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": 3,
+      "pis": null,
+      "proprietario": "CAL / JOÃO BERTOLA",
+      "rg": null,
+      "rounds": [],
+      "rr": null,
+      "seq": 13,
+      "tempo": 0,
+      "tipo": 2,
+      "tropeiro": "CIA FORTALEZA"
+    },
+    {
+      "animal": "DESEJO",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": "-",
+      "cidade_tropeiro": "AMPARO-SP",
+      "competidor": "",
+      "competidor_descricao": "",
+      "cpf": null,
+      "data_nascimento": null,
+      "etapa": "ROUND5",
+      "id": 3334,
+      "id_animal": 524,
+      "id_competidor": null,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "E",
+      "nota": 0,
+      "nota_total": 0,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": 4,
+      "pis": null,
+      "proprietario": "CAL / JOÃO BERTOLA",
+      "rg": null,
+      "rounds": [],
+      "rr": null,
+      "seq": 14,
+      "tempo": 0,
+      "tipo": 2,
+      "tropeiro": "CIA FORTALEZA"
+    },
+    {
+      "animal": "DILÚVIO",
+      "animal_descricao": "",
+      "bonus": 0,
+      "cidade": "-",
+      "cidade_tropeiro": "AMPARO-SP",
+      "competidor": "",
+      "competidor_descricao": "",
+      "cpf": null,
+      "data_nascimento": null,
+      "etapa": "ROUND5",
+      "id": 3335,
+      "id_animal": 516,
+      "id_competidor": null,
+      "id_etapa": 284,
+      "id_ocorrencia": null,
+      "lado": "C",
+      "nota": 0,
+      "nota_total": 0,
+      "notas": [],
+      "ocorrencia": null,
+      "ordem": 5,
+      "pis": null,
+      "proprietario": "CAL / JOÃO BERTOLA",
+      "rg": null,
+      "rounds": [],
+      "rr": null,
+      "seq": 15,
+      "tempo": 0,
+      "tipo": 2,
+      "tropeiro": "CIA FORTALEZA"
+    }
+  ],
+  "rank": [
+    {
+      "cidade": "BRODOWSKI  - SP",
+      "competidor": "LÉO RODRIGO NARCISO DE FRANÇA ",
+      "etapa": [
+        {
+          "animal": "ANDROID",
+          "id": 165,
+          "id_competidor": 629,
+          "juiz": "JOAO CARLOS",
+          "nota": 91.75,
+          "nota_animal": 44.25,
+          "nota_competidor": 47.5,
+          "rodada": "ROUND 1",
+          "tempo": 8
+        },
+        {
+          "animal": "ATLAS",
+          "id": 165,
+          "id_competidor": 629,
+          "juiz": "JOAO CARLOS",
+          "nota": 97.75,
+          "nota_animal": 49.5,
+          "nota_competidor": 48.25,
+          "rodada": "ROUND 1",
+          "tempo": 0.8
+        },
+        {
+          "animal": "LUXUARIA",
+          "id": 165,
+          "id_competidor": 629,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "MOSAICO",
+          "id": 225,
+          "id_competidor": 629,
+          "juiz": "HERIVELTO ALMEIDA",
+          "nota": 43.5,
+          "nota_animal": 21.5,
+          "nota_competidor": 22,
+          "rodada": "ROUND 2",
+          "tempo": 0
+        },
+        {
+          "animal": "MOSAICO",
+          "id": 225,
+          "id_competidor": 629,
+          "juiz": "JOAO CARLOS",
+          "nota": 66.75,
+          "nota_animal": 33.25,
+          "nota_competidor": 33.5,
+          "rodada": "ROUND 2",
+          "tempo": 0
+        }
+      ],
+      "id": 629,
+      "nota": 249.5,
+      "nota_dif": 0,
+      "posicao": 1
+    },
+    {
+      "cidade": "SANTA BÁRBARA DOESTE  - SP",
+      "competidor": "GIOVANE HENRIQUE CALLEGARI ",
+      "etapa": [
+        {
+          "animal": "BALADA",
+          "id": 165,
+          "id_competidor": 615,
+          "juiz": "JOAO CARLOS",
+          "nota": 95,
+          "nota_animal": 45.75,
+          "nota_competidor": 49.25,
+          "rodada": "ROUND 1",
+          "tempo": 8
+        },
+        {
+          "animal": "ANDROID",
+          "id": 225,
+          "id_competidor": 615,
+          "juiz": "JOAO CARLOS",
+          "nota": 93.5,
+          "nota_animal": 47.75,
+          "nota_competidor": 45.75,
+          "rodada": "ROUND 2",
+          "tempo": 8
+        },
+        {
+          "animal": "CAXIMBO",
+          "id": 225,
+          "id_competidor": 615,
+          "juiz": "JOAO CARLOS",
+          "nota": 45.75,
+          "nota_animal": 22.25,
+          "nota_competidor": 23.5,
+          "rodada": "ROUND 2",
+          "tempo": 7.52
+        }
+      ],
+      "id": 615,
+      "nota": 188.5,
+      "nota_dif": 61,
+      "posicao": 2
+    },
+    {
+      "cidade": "BRAGANÇA PAULISTA  - SP",
+      "competidor": "ALEF DE CAMPOS LIMA",
+      "etapa": [
+        {
+          "animal": "SNAIPER",
+          "id": 165,
+          "id_competidor": 635,
+          "juiz": "JOAO CARLOS",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 5.66
+        },
+        {
+          "animal": "TERRORISTA",
+          "id": 226,
+          "id_competidor": 635,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 3",
+          "tempo": 0
+        },
+        {
+          "animal": "ARROGANTE",
+          "id": 234,
+          "id_competidor": 635,
+          "juiz": "VELTO",
+          "nota": 48.75,
+          "nota_animal": 24.75,
+          "nota_competidor": 24,
+          "rodada": "ROUND4",
+          "tempo": 8
+        },
+        {
+          "animal": "ARROGANTE",
+          "id": 234,
+          "id_competidor": 635,
+          "juiz": "JUIZ 3",
+          "nota": 49,
+          "nota_animal": 24.75,
+          "nota_competidor": 24.25,
+          "rodada": "ROUND4",
+          "tempo": 8
+        },
+        {
+          "animal": "ARROGANTE",
+          "id": 234,
+          "id_competidor": 635,
+          "juiz": "JUIZ 4",
+          "nota": 49.75,
+          "nota_animal": 25,
+          "nota_competidor": 24.75,
+          "rodada": "ROUND4",
+          "tempo": 8
+        },
+        {
+          "animal": "ARROGANTE",
+          "id": 234,
+          "id_competidor": 635,
+          "juiz": "JOAO CARLOS",
+          "nota": 95.5,
+          "nota_animal": 45.5,
+          "nota_competidor": 50,
+          "rodada": "ROUND4",
+          "tempo": 8
+        },
+        {
+          "animal": "HILUX",
+          "id": 234,
+          "id_competidor": 635,
+          "juiz": "JUIZ 3",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND4",
+          "tempo": 7.85
+        },
+        {
+          "animal": "HILUX",
+          "id": 234,
+          "id_competidor": 635,
+          "juiz": "JUIZ 4",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND4",
+          "tempo": 7.85
+        },
+        {
+          "animal": "HILUX",
+          "id": 234,
+          "id_competidor": 635,
+          "juiz": "VELTO",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND4",
+          "tempo": 7.85
+        },
+        {
+          "animal": "HILUX",
+          "id": 234,
+          "id_competidor": 635,
+          "juiz": "JOAO CARLOS",
+          "nota": 97.25,
+          "nota_animal": 48.5,
+          "nota_competidor": 48.75,
+          "rodada": "ROUND4",
+          "tempo": 7.85
+        },
+        {
+          "animal": "MASSACRE",
+          "id": 234,
+          "id_competidor": 635,
+          "juiz": "JOAO CARLOS",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND4",
+          "tempo": 0
+        },
+        {
+          "animal": "ANDROID",
+          "id": 284,
+          "id_competidor": 635,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND5",
+          "tempo": 0
+        }
+      ],
+      "id": 635,
+      "nota": 146,
+      "nota_dif": 103.5,
+      "posicao": 3
+    },
+    {
+      "cidade": "BURITIZAL  - SP",
+      "competidor": "IAGO SEVERINO SOUZA SILVA",
+      "etapa": [
+        {
+          "animal": "AMAMBAI",
+          "id": 165,
+          "id_competidor": 592,
+          "juiz": "JOAO CARLOS",
+          "nota": 95.75,
+          "nota_animal": 48.25,
+          "nota_competidor": 47.5,
+          "rodada": "ROUND 1",
+          "tempo": 8
+        },
+        {
+          "animal": "ENTORTA BICHO",
+          "id": 225,
+          "id_competidor": 592,
+          "juiz": "JOAO CARLOS",
+          "nota": 43,
+          "nota_animal": 22,
+          "nota_competidor": 21,
+          "rodada": "ROUND 2",
+          "tempo": 0
+        }
+      ],
+      "id": 592,
+      "nota": 138.75,
+      "nota_dif": 110.75,
+      "posicao": 4
+    },
+    {
+      "cidade": "MORUNGABA  - SP",
+      "competidor": "MIKAEL FURTADO DE LIMA ",
+      "etapa": [
+        {
+          "animal": "ALADIM",
+          "id": 165,
+          "id_competidor": 595,
+          "juiz": "JOAO CARLOS",
+          "nota": 98.25,
+          "nota_animal": 49.75,
+          "nota_competidor": 48.5,
+          "rodada": "ROUND 1",
+          "tempo": 8
+        },
+        {
+          "animal": "GIBAN",
+          "id": 225,
+          "id_competidor": 595,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 2",
+          "tempo": 0
+        }
+      ],
+      "id": 595,
+      "nota": 98.25,
+      "nota_dif": 151.25,
+      "posicao": 5
+    },
+    {
+      "cidade": "BARRO - CE",
+      "competidor": "ANTÔNIO ALVES BENTO ",
+      "etapa": [
+        {
+          "animal": "CANHOTO",
+          "id": 165,
+          "id_competidor": 631,
+          "juiz": "JOAO CARLOS",
+          "nota": 96,
+          "nota_animal": 47.5,
+          "nota_competidor": 48.5,
+          "rodada": "ROUND 1",
+          "tempo": 8
+        },
+        {
+          "animal": "ANDROID",
+          "id": 226,
+          "id_competidor": 631,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 3",
+          "tempo": 0
+        },
+        {
+          "animal": "MASSACRE",
+          "id": 284,
+          "id_competidor": 631,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND5",
+          "tempo": 0
+        }
+      ],
+      "id": 631,
+      "nota": 96,
+      "nota_dif": 153.5,
+      "posicao": 6
+    },
+    {
+      "cidade": "  - SP",
+      "competidor": "FABRICIO SOARES DOMINGUES",
+      "etapa": [
+        {
+          "animal": "HIMALAIA",
+          "id": 165,
+          "id_competidor": 691,
+          "juiz": "JOAO CARLOS",
+          "nota": 91,
+          "nota_animal": 44.75,
+          "nota_competidor": 46.25,
+          "rodada": "ROUND 1",
+          "tempo": 0.8
+        }
+      ],
+      "id": 691,
+      "nota": 91,
+      "nota_dif": 158.5,
+      "posicao": 7
+    },
+    {
+      "cidade": "POUSO ALEGRE  - MG",
+      "competidor": "JULIO CESAR PEREIRA DA SILVA",
+      "etapa": [
+        {
+          "animal": "THIRÉX",
+          "id": 165,
+          "id_competidor": 598,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "CORINGA",
+          "id": 225,
+          "id_competidor": 598,
+          "juiz": "JOAO CARLOS",
+          "nota": 90.5,
+          "nota_animal": 46.75,
+          "nota_competidor": 43.75,
+          "rodada": "ROUND 2",
+          "tempo": 5.69
+        }
+      ],
+      "id": 598,
+      "nota": 90.5,
+      "nota_dif": 159,
+      "posicao": 8
+    },
+    {
+      "cidade": " MIGUELOPOLIS - SP",
+      "competidor": "VITOR GABRIEL FRAGOSO",
+      "etapa": [
+        {
+          "animal": "ARTISTA",
+          "id": 165,
+          "id_competidor": 681,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "GUERREIRO",
+          "id": 225,
+          "id_competidor": 681,
+          "juiz": "JOAO CARLOS",
+          "nota": 90.5,
+          "nota_animal": 44.75,
+          "nota_competidor": 45.75,
+          "rodada": "ROUND 2",
+          "tempo": 5.68
+        }
+      ],
+      "id": 681,
+      "nota": 90.5,
+      "nota_dif": 159,
+      "posicao": 8
+    },
+    {
+      "cidade": "SANTA RITA DO PASSA QUATRO  - SP",
+      "competidor": "GUSTAVO SOARES RODRIGUES ",
+      "etapa": [
+        {
+          "animal": "CAFÉ AMARGO",
+          "id": 165,
+          "id_competidor": 612,
+          "juiz": "JOAO CARLOS",
+          "nota": 87,
+          "nota_animal": 44.5,
+          "nota_competidor": 42.5,
+          "rodada": "ROUND 1",
+          "tempo": 7.52
+        },
+        {
+          "animal": "ENTORTA BICHO",
+          "id": 226,
+          "id_competidor": 612,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 3",
+          "tempo": 0
+        }
+      ],
+      "id": 612,
+      "nota": 87,
+      "nota_dif": 162.5,
+      "posicao": 9
+    },
+    {
+      "cidade": "BRODOWSKI - SP",
+      "competidor": "ERICK EXPEDITO",
+      "etapa": [
+        {
+          "animal": "GATO PRETO",
+          "id": 165,
+          "id_competidor": 589,
+          "juiz": "HERIVELTO ALMEIDA",
+          "nota": 40,
+          "nota_animal": 20,
+          "nota_competidor": 20,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "GATO PRETO",
+          "id": 165,
+          "id_competidor": 589,
+          "juiz": "JOAO CARLOS",
+          "nota": 44.25,
+          "nota_animal": 22.5,
+          "nota_competidor": 21.75,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "AAAAAAAA",
+          "id": 284,
+          "id_competidor": 589,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND5",
+          "tempo": 0
+        }
+      ],
+      "id": 589,
+      "nota": 84.25,
+      "nota_dif": 165.25,
+      "posicao": 10
+    },
+    {
+      "cidade": " MACEDONIA - SP",
+      "competidor": "JOÃO MARCELO",
+      "etapa": [
+        {
+          "animal": "CAXIMBO",
+          "id": 165,
+          "id_competidor": 687,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "SEM ACORDO",
+          "id": 165,
+          "id_competidor": 687,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "CANADA",
+          "id": 225,
+          "id_competidor": 687,
+          "juiz": "JOAO CARLOS",
+          "nota": 69.5,
+          "nota_animal": 39.75,
+          "nota_competidor": 29.75,
+          "rodada": "ROUND 2",
+          "tempo": 5.68
+        }
+      ],
+      "id": 687,
+      "nota": 69.5,
+      "nota_dif": 180,
+      "posicao": 11
+    },
+    {
+      "cidade": " JAGUARIUNA - SP",
+      "competidor": "LEONARDO FERREIRA DOS REIS",
+      "etapa": [
+        {
+          "animal": "PARÁ BELO",
+          "id": 165,
+          "id_competidor": 692,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "ALADIM",
+          "id": 225,
+          "id_competidor": 692,
+          "juiz": "JOAO CARLOS",
+          "nota": 66.75,
+          "nota_animal": 33.5,
+          "nota_competidor": 33.25,
+          "rodada": "ROUND 2",
+          "tempo": 5.25
+        }
+      ],
+      "id": 692,
+      "nota": 66.75,
+      "nota_dif": 182.75,
+      "posicao": 12
+    },
+    {
+      "cidade": " RIO PRETO - SP",
+      "competidor": "CESAR CRISTIANO",
+      "etapa": [
+        {
+          "animal": "012",
+          "id": 165,
+          "id_competidor": 686,
+          "juiz": "JOAO CARLOS",
+          "nota": 45.75,
+          "nota_animal": 22.25,
+          "nota_competidor": 23.5,
+          "rodada": "ROUND 1",
+          "tempo": 5.86
+        },
+        {
+          "animal": "CORROSIVO",
+          "id": 165,
+          "id_competidor": 686,
+          "juiz": "JOAO CARLOS",
+          "nota": 87.3,
+          "nota_animal": 44.5,
+          "nota_competidor": 42.8,
+          "rodada": "ROUND 1",
+          "tempo": 7.52
+        },
+        {
+          "animal": "ANDROID",
+          "id": 234,
+          "id_competidor": 686,
+          "juiz": "JUIZ 3",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND4",
+          "tempo": 7.88
+        },
+        {
+          "animal": "ANDROID",
+          "id": 234,
+          "id_competidor": 686,
+          "juiz": "JUIZ 4",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND4",
+          "tempo": 7.88
+        },
+        {
+          "animal": "ANDROID",
+          "id": 234,
+          "id_competidor": 686,
+          "juiz": "VELTO",
+          "nota": 0,
+          "nota_animal": 23.5,
+          "nota_competidor": 0,
+          "rodada": "ROUND4",
+          "tempo": 7.88
+        },
+        {
+          "animal": "ANDROID",
+          "id": 234,
+          "id_competidor": 686,
+          "juiz": "JOAO CARLOS",
+          "nota": 55,
+          "nota_animal": 30.5,
+          "nota_competidor": 24.5,
+          "rodada": "ROUND4",
+          "tempo": 7.88
+        },
+        {
+          "animal": "URSO",
+          "id": 234,
+          "id_competidor": 686,
+          "juiz": "JOAO CARLOS",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND4",
+          "tempo": 0
+        },
+        {
+          "animal": "TERRORISTA",
+          "id": 284,
+          "id_competidor": 686,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND5",
+          "tempo": 0
+        }
+      ],
+      "id": 686,
+      "nota": 45.75,
+      "nota_dif": 203.75,
+      "posicao": 13
+    },
+    {
+      "cidade": "MUNHOZ - MG",
+      "competidor": "JOSÉ HIGSON VIEIRA DE OLIVEIRA ",
+      "etapa": [
+        {
+          "animal": "CORINGA",
+          "id": 165,
+          "id_competidor": 599,
+          "juiz": "JOAO CARLOS",
+          "nota": 20.5,
+          "nota_animal": 0,
+          "nota_competidor": 20.5,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "CORINGA",
+          "id": 165,
+          "id_competidor": 599,
+          "juiz": "VELTO",
+          "nota": 20.75,
+          "nota_animal": 0,
+          "nota_competidor": 20.75,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "CORINGA",
+          "id": 165,
+          "id_competidor": 599,
+          "juiz": "JUIZ 3",
+          "nota": 21.75,
+          "nota_animal": 0,
+          "nota_competidor": 21.75,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "CORINGA",
+          "id": 165,
+          "id_competidor": 599,
+          "juiz": "JUIZ 4",
+          "nota": 22.75,
+          "nota_animal": 0,
+          "nota_competidor": 22.75,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "GATO PRETO",
+          "id": 226,
+          "id_competidor": 599,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 3",
+          "tempo": 0
+        }
+      ],
+      "id": 599,
+      "nota": 42.87,
+      "nota_dif": 206.63,
+      "posicao": 14
+    },
+    {
+      "cidade": "DIRCEU ARCOVERDE  - PI",
+      "competidor": "EDILVAN OLIVEIRA DE SOUSA ",
+      "etapa": [
+        {
+          "animal": "PIXOTE",
+          "id": 165,
+          "id_competidor": 661,
+          "juiz": "JUIZ 3",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 7.89
+        },
+        {
+          "animal": "PIXOTE",
+          "id": 165,
+          "id_competidor": 661,
+          "juiz": "JUIZ 4",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 7.89
+        },
+        {
+          "animal": "PIXOTE",
+          "id": 165,
+          "id_competidor": 661,
+          "juiz": "JOAO CARLOS",
+          "nota": 0,
+          "nota_animal": 25,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 7.89
+        },
+        {
+          "animal": "PIXOTE",
+          "id": 165,
+          "id_competidor": 661,
+          "juiz": "VELTO",
+          "nota": 20.25,
+          "nota_animal": 0,
+          "nota_competidor": 20.25,
+          "rodada": "ROUND 1",
+          "tempo": 7.89
+        },
+        {
+          "animal": "ALADIM",
+          "id": 284,
+          "id_competidor": 661,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND5",
+          "tempo": 0
+        }
+      ],
+      "id": 661,
+      "nota": 22.62,
+      "nota_dif": 226.88,
+      "posicao": 15
+    },
+    {
+      "cidade": "  - SP",
+      "competidor": "FABIANO DINIZ",
+      "etapa": [
+        {
+          "animal": "PREDADOR",
+          "id": 165,
+          "id_competidor": 684,
+          "juiz": "JUIZ 3",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 7.52
+        },
+        {
+          "animal": "PREDADOR",
+          "id": 165,
+          "id_competidor": 684,
+          "juiz": "JUIZ 4",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 7.52
+        },
+        {
+          "animal": "PREDADOR",
+          "id": 165,
+          "id_competidor": 684,
+          "juiz": "VELTO",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 7.52
+        },
+        {
+          "animal": "PREDADOR",
+          "id": 165,
+          "id_competidor": 684,
+          "juiz": "JOAO CARLOS",
+          "nota": 41.25,
+          "nota_animal": 20.75,
+          "nota_competidor": 20.5,
+          "rodada": "ROUND 1",
+          "tempo": 7.52
+        }
+      ],
+      "id": 684,
+      "nota": 20.62,
+      "nota_dif": 228.88,
+      "posicao": 16
+    },
+    {
+      "cidade": "PARAISOPOLIS - MG",
+      "competidor": "SIDNEY LOPES",
+      "etapa": [
+        {
+          "animal": "POETA",
+          "id": 165,
+          "id_competidor": 656,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "HILUX",
+          "id": 225,
+          "id_competidor": 656,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 2",
+          "tempo": 7.52
+        }
+      ],
+      "id": 656,
+      "nota": 7.52,
+      "nota_dif": 249.5,
+      "posicao": 17
+    },
+    {
+      "cidade": "DESCALVADO - SP",
+      "competidor": "THIAGO JÓ ",
+      "etapa": [
+        {
+          "animal": "HILUX",
+          "id": 165,
+          "id_competidor": 597,
+          "juiz": "JOAO CARLOS",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 4.52
+        },
+        {
+          "animal": "HILUX",
+          "id": 165,
+          "id_competidor": 597,
+          "juiz": "JUIZ 3",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 4.52
+        },
+        {
+          "animal": "HILUX",
+          "id": 165,
+          "id_competidor": 597,
+          "juiz": "JUIZ 4",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 4.52
+        },
+        {
+          "animal": "HILUX",
+          "id": 165,
+          "id_competidor": 597,
+          "juiz": "VELTO",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 4.52
+        }
+      ],
+      "id": 597,
+      "nota": 4.52,
+      "nota_dif": 249.5,
+      "posicao": 18
+    },
+    {
+      "cidade": "SANTA RITA DE CALDAS  - MG",
+      "competidor": "PATRICK BARBOSA ",
+      "etapa": [
+        {
+          "animal": "HOLANDÊS",
+          "id": 165,
+          "id_competidor": 664,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 664,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "PEDRALVA - MG",
+      "competidor": "FABIO SOARES DOMINGOS",
+      "etapa": [
+        {
+          "animal": "SURREAL",
+          "id": 165,
+          "id_competidor": 630,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 630,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "  - SP",
+      "competidor": "DANIEL MORAIS",
+      "etapa": [
+        {
+          "animal": "MAR VERMELHO",
+          "id": 165,
+          "id_competidor": 688,
+          "juiz": "JOAO CARLOS",
+          "nota": 0,
+          "nota_animal": 45.5,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 5.52
+        },
+        {
+          "animal": "ARROGANTE",
+          "id": 284,
+          "id_competidor": 688,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND5",
+          "tempo": 0
+        }
+      ],
+      "id": 688,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "  - SP",
+      "competidor": "GABRIEL CESAR",
+      "etapa": [
+        {
+          "animal": "VIAJANTE",
+          "id": 165,
+          "id_competidor": 683,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 683,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "  - SP",
+      "competidor": "MATHEUS LUIS BRITO",
+      "etapa": [
+        {
+          "animal": "CANADA",
+          "id": 165,
+          "id_competidor": 680,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "DILÚVIO",
+          "id": 165,
+          "id_competidor": 680,
+          "juiz": "JOAO CARLOS",
+          "nota": 60.25,
+          "nota_animal": 26.25,
+          "nota_competidor": 34,
+          "rodada": "ROUND 1",
+          "tempo": 5.89
+        },
+        {
+          "animal": "CANHOTO",
+          "id": 226,
+          "id_competidor": 680,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 3",
+          "tempo": 0
+        }
+      ],
+      "id": 680,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "  - SP",
+      "competidor": "LEONARDO VITOR",
+      "etapa": [
+        {
+          "animal": "PROFÉTICO",
+          "id": 165,
+          "id_competidor": 682,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 682,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": " FRUTAL - SP",
+      "competidor": "ALLAN MIGUEL",
+      "etapa": [
+        {
+          "animal": "REI DO BAILE",
+          "id": 165,
+          "id_competidor": 690,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "DESEJO",
+          "id": 226,
+          "id_competidor": 690,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 3",
+          "tempo": 0
+        },
+        {
+          "animal": "ATLAS",
+          "id": 234,
+          "id_competidor": 690,
+          "juiz": "JOAO CARLOS",
+          "nota": 90,
+          "nota_animal": 40,
+          "nota_competidor": 50,
+          "rodada": "ROUND4",
+          "tempo": 5.66
+        },
+        {
+          "animal": "TRIBUNAL",
+          "id": 234,
+          "id_competidor": 690,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND4",
+          "tempo": 0
+        },
+        {
+          "animal": "ARTISTA",
+          "id": 284,
+          "id_competidor": 690,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND5",
+          "tempo": 0
+        }
+      ],
+      "id": 690,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "LIMEIRA  - SP",
+      "competidor": "JOÃO HENRIQUE TRINDADE DA SILVA ",
+      "etapa": [
+        {
+          "animal": "GUERREIRO",
+          "id": 165,
+          "id_competidor": 657,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 657,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "BOM REPOUSO - MG",
+      "competidor": "JOÃO ANTÔNIO SILVA BORBA ",
+      "etapa": [
+        {
+          "animal": "ARROGANTE",
+          "id": 165,
+          "id_competidor": 611,
+          "juiz": "JOAO CARLOS",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 611,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "NAZARÉ PAULISTA  - SP",
+      "competidor": "GIOVANE TAVARES DE FREITAS FERNANDES ",
+      "etapa": [
+        {
+          "animal": "PARATY",
+          "id": 165,
+          "id_competidor": 614,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 614,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "PAULINIA  - SP",
+      "competidor": "EVERTON DOS SANTOS ",
+      "etapa": [
+        {
+          "animal": "BRIGA DE GALO",
+          "id": 165,
+          "id_competidor": 590,
+          "juiz": "JOAO CARLOS",
+          "nota": 0,
+          "nota_animal": 48.25,
+          "nota_competidor": 0,
+          "rodada": "ROUND 1",
+          "tempo": 7.52
+        },
+        {
+          "animal": "HILUX",
+          "id": 284,
+          "id_competidor": 590,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND5",
+          "tempo": 0
+        }
+      ],
+      "id": 590,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "SÃO ROQUE - SP",
+      "competidor": "EDUARDO MARTINS",
+      "etapa": [
+        {
+          "animal": "GIBAN",
+          "id": 165,
+          "id_competidor": 591,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "ATLAS",
+          "id": 284,
+          "id_competidor": 591,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND5",
+          "tempo": 0
+        },
+        {
+          "animal": "URSO",
+          "id": 284,
+          "id_competidor": 591,
+          "juiz": "JOAO CARLOS",
+          "nota": 0,
+          "nota_animal": 0,
+          "nota_competidor": 0,
+          "rodada": "ROUND5",
+          "tempo": 0
+        }
+      ],
+      "id": 591,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "SOROCABA - SP",
+      "competidor": "FERNANDO JOSÉ CARLINI",
+      "etapa": [
+        {
+          "animal": "TRIBUNAL",
+          "id": 165,
+          "id_competidor": 593,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 593,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "ESTIVA GERBI  - SP",
+      "competidor": "GUSTAVO ELIAS DE ARRUDA",
+      "etapa": [
+        {
+          "animal": "ATRITO",
+          "id": 165,
+          "id_competidor": 594,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 594,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "BRAGANÇA PAULISTA  - SP",
+      "competidor": "LUCAS EDUARDO BUENO ",
+      "etapa": [
+        {
+          "animal": "PALETA",
+          "id": 165,
+          "id_competidor": 596,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 596,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "CARRANCAS  - MG",
+      "competidor": "WALDINEI EUGENIO RIBEIRO ",
+      "etapa": [
+        {
+          "animal": "BEM BOLADO",
+          "id": 165,
+          "id_competidor": 601,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "PARÁ BELO",
+          "id": 226,
+          "id_competidor": 601,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 3",
+          "tempo": 0
+        }
+      ],
+      "id": 601,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "IPUIÚNA - MG",
+      "competidor": "PEDRO HENRIQUE DE OLIVEIRA FREITAS ",
+      "etapa": [
+        {
+          "animal": "ENTORTA BICHO",
+          "id": 165,
+          "id_competidor": 604,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "POETA",
+          "id": 226,
+          "id_competidor": 604,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 3",
+          "tempo": 0
+        }
+      ],
+      "id": 604,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "PIRACICABA  - SP",
+      "competidor": "MAICON DUARTE ",
+      "etapa": [
+        {
+          "animal": "TERRORISTA",
+          "id": 165,
+          "id_competidor": 605,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "ARTISTA",
+          "id": 225,
+          "id_competidor": 605,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 2",
+          "tempo": 0
+        },
+        {
+          "animal": "PREDADOR",
+          "id": 225,
+          "id_competidor": 605,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 2",
+          "tempo": 0
+        }
+      ],
+      "id": 605,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "BURITIZAL  - SP",
+      "competidor": "YAGO ANDRADE ",
+      "etapa": [
+        {
+          "animal": "MASSACRE",
+          "id": 165,
+          "id_competidor": 608,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 608,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "CAMANDUCAIA  - MG",
+      "competidor": "FELIPE ALAN DOS SANTOS",
+      "etapa": [
+        {
+          "animal": "MOSAICO",
+          "id": 165,
+          "id_competidor": 609,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 609,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "GUAXUPÉ  - MG",
+      "competidor": "MATEUS ALVES DA SILVA ",
+      "etapa": [
+        {
+          "animal": "GREGO",
+          "id": 165,
+          "id_competidor": 632,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "CORROSIVO",
+          "id": 226,
+          "id_competidor": 632,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 3",
+          "tempo": 0
+        }
+      ],
+      "id": 632,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "PORTO FELIZ  - SP",
+      "competidor": "LUIZ ODAIR BATISTA ",
+      "etapa": [
+        {
+          "animal": "PAIXÃO MINEIRA",
+          "id": 165,
+          "id_competidor": 633,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 633,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "ESTIVA GERBI  - SP",
+      "competidor": "GABRIEL LUCAS FERNANDES MATAVELLI ",
+      "etapa": [
+        {
+          "animal": "URSO",
+          "id": 165,
+          "id_competidor": 634,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        }
+      ],
+      "id": 634,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "CARMO DO RIO CLARO - MG",
+      "competidor": "THIAGO ROBERTO GONÇALVES ",
+      "etapa": [
+        {
+          "animal": "ÓREO",
+          "id": 165,
+          "id_competidor": 610,
+          "juiz": "JOAO CARLOS",
+          "nota": 100,
+          "nota_animal": 50,
+          "nota_competidor": 50,
+          "rodada": "ROUND 1",
+          "tempo": 7.99
+        }
+      ],
+      "id": 610,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "PIRACICABA  - SP",
+      "competidor": "DANIEL ALEXANDRE LOPES DOS SANTOS ",
+      "etapa": [
+        {
+          "animal": "DESEJO",
+          "id": 165,
+          "id_competidor": 662,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "REI DO BAILE",
+          "id": 226,
+          "id_competidor": 662,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 3",
+          "tempo": 0
+        },
+        {
+          "animal": "TRIBUNAL",
+          "id": 284,
+          "id_competidor": 662,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND5",
+          "tempo": 0
+        }
+      ],
+      "id": 662,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    },
+    {
+      "cidade": "BOM JESUS DOS PERDÕES  - SP",
+      "competidor": "FABIO OLIVEIRA COSTA ",
+      "etapa": [
+        {
+          "animal": "MAFIOSO",
+          "id": 165,
+          "id_competidor": 663,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 1",
+          "tempo": 0
+        },
+        {
+          "animal": "GUERREIRO",
+          "id": 226,
+          "id_competidor": 663,
+          "juiz": null,
+          "nota": 0,
+          "nota_animal": null,
+          "nota_competidor": null,
+          "rodada": "ROUND 3",
+          "tempo": 0
+        }
+      ],
+      "id": 663,
+      "nota": 0,
+      "nota_dif": 249.5,
+      "posicao": 19
+    }
+  ],
+  "tropeiro": [
+    {
+      "animal": [
+        {
+          "animal": "ANDROID",
+          "etapa": [
+            {
+              "animal": "ANDROID",
+              "fator": 1,
+              "id_animal": 741,
+              "id_tropeiro": 97,
+              "nota": 44.25,
+              "rodada": "ROUND 1"
+            },
+            {
+              "animal": "ANDROID",
+              "fator": 1,
+              "id_animal": 741,
+              "id_tropeiro": 97,
+              "nota": 47.75,
+              "rodada": "ROUND 2"
+            },
+            {
+              "animal": "ANDROID",
+              "fator": 1,
+              "id_animal": 741,
+              "id_tropeiro": 97,
+              "nota": 54,
+              "rodada": "ROUND4"
+            }
+          ],
+          "id_tropeiro": 97,
+          "media": 48.66,
+          "media_tropeiro": 48.62,
+          "nota_animal": 146,
+          "nota_total": 194.5,
+          "posicao": 1,
+          "saida": 3,
+          "tropeiro": "CIA FORNAGIO"
+        },
+        {
+          "animal": "HILUX",
+          "etapa": [
+            {
+              "animal": "HILUX",
+              "fator": 1,
+              "id_animal": 538,
+              "id_tropeiro": 97,
+              "nota": 48.5,
+              "rodada": "ROUND4"
+            }
+          ],
+          "id_tropeiro": 97,
+          "media": 48.5,
+          "media_tropeiro": 48.62,
+          "nota_animal": 48.5,
+          "nota_total": 194.5,
+          "posicao": 7,
+          "saida": 1,
+          "tropeiro": "CIA FORNAGIO"
+        }
+      ],
+      "cidade": "1 - SP",
+      "id": 97,
+      "media": 48.62,
+      "nota_dif": 0,
+      "nota_total": 194.5,
+      "posicao": 1,
+      "qtde_animais": 2,
+      "qtde_saidas": 4,
+      "tropeiro": "CIA FORNAGIO"
+    },
+    {
+      "animal": [
+        {
+          "animal": "ATLAS",
+          "etapa": [
+            {
+              "animal": "ATLAS",
+              "fator": 1,
+              "id_animal": 510,
+              "id_tropeiro": 95,
+              "nota": 49.5,
+              "rodada": "ROUND 1"
+            },
+            {
+              "animal": "ATLAS",
+              "fator": 1,
+              "id_animal": 510,
+              "id_tropeiro": 95,
+              "nota": 40,
+              "rodada": "ROUND4"
+            }
+          ],
+          "id_tropeiro": 95,
+          "media": 44.75,
+          "media_tropeiro": 44.88,
+          "nota_animal": 89.5,
+          "nota_total": 404,
+          "posicao": 2,
+          "saida": 2,
+          "tropeiro": "CIA FORTALEZA"
+        },
+        {
+          "animal": "ALADIM",
+          "etapa": [
+            {
+              "animal": "ALADIM",
+              "fator": 1,
+              "id_animal": 512,
+              "id_tropeiro": 95,
+              "nota": 49.75,
+              "rodada": "ROUND 1"
+            },
+            {
+              "animal": "ALADIM",
+              "fator": 1,
+              "id_animal": 512,
+              "id_tropeiro": 95,
+              "nota": 33.5,
+              "rodada": "ROUND 2"
+            }
+          ],
+          "id_tropeiro": 95,
+          "media": 41.62,
+          "media_tropeiro": 44.88,
+          "nota_animal": 83.25,
+          "nota_total": 404,
+          "posicao": 3,
+          "saida": 2,
+          "tropeiro": "CIA FORTALEZA"
+        },
+        {
+          "animal": "ARROGANTE",
+          "etapa": [
+            {
+              "animal": "ARROGANTE",
+              "fator": 0.5,
+              "id_animal": 514,
+              "id_tropeiro": 95,
+              "nota": 120,
+              "rodada": "ROUND4"
+            }
+          ],
+          "id_tropeiro": 95,
+          "media": 60,
+          "media_tropeiro": 44.88,
+          "nota_animal": 60,
+          "nota_total": 404,
+          "posicao": 4,
+          "saida": 1,
+          "tropeiro": "CIA FORTALEZA"
+        },
+        {
+          "animal": "MOSAICO",
+          "etapa": [
+            {
+              "animal": "MOSAICO",
+              "fator": 1,
+              "id_animal": 523,
+              "id_tropeiro": 95,
+              "nota": 54.75,
+              "rodada": "ROUND 2"
+            }
+          ],
+          "id_tropeiro": 95,
+          "media": 54.75,
+          "media_tropeiro": 44.88,
+          "nota_animal": 54.75,
+          "nota_total": 404,
+          "posicao": 5,
+          "saida": 1,
+          "tropeiro": "CIA FORTALEZA"
+        },
+        {
+          "animal": "MAR VERMELHO",
+          "etapa": [
+            {
+              "animal": "MAR VERMELHO",
+              "fator": 1,
+              "id_animal": 517,
+              "id_tropeiro": 95,
+              "nota": 45.5,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 95,
+          "media": 45.5,
+          "media_tropeiro": 44.88,
+          "nota_animal": 45.5,
+          "nota_total": 404,
+          "posicao": 12,
+          "saida": 1,
+          "tropeiro": "CIA FORTALEZA"
+        },
+        {
+          "animal": "HIMALAIA",
+          "etapa": [
+            {
+              "animal": "HIMALAIA",
+              "fator": 1,
+              "id_animal": 515,
+              "id_tropeiro": 95,
+              "nota": 44.75,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 95,
+          "media": 44.75,
+          "media_tropeiro": 44.88,
+          "nota_animal": 44.75,
+          "nota_total": 404,
+          "posicao": 13,
+          "saida": 1,
+          "tropeiro": "CIA FORTALEZA"
+        },
+        {
+          "animal": "DILÚVIO",
+          "etapa": [
+            {
+              "animal": "DILÚVIO",
+              "fator": 1,
+              "id_animal": 516,
+              "id_tropeiro": 95,
+              "nota": 26.25,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 95,
+          "media": 26.25,
+          "media_tropeiro": 44.88,
+          "nota_animal": 26.25,
+          "nota_total": 404,
+          "posicao": 17,
+          "saida": 1,
+          "tropeiro": "CIA FORTALEZA"
+        }
+      ],
+      "cidade": "AMPARO - SP",
+      "id": 95,
+      "media": 44.88,
+      "nota_dif": 3.74,
+      "nota_total": 404,
+      "posicao": 2,
+      "qtde_animais": 7,
+      "qtde_saidas": 9,
+      "tropeiro": "CIA FORTALEZA"
+    },
+    {
+      "animal": [
+        {
+          "animal": "AMAMBAI",
+          "etapa": [
+            {
+              "animal": "AMAMBAI",
+              "fator": 1,
+              "id_animal": 531,
+              "id_tropeiro": 96,
+              "nota": 48.25,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 96,
+          "media": 48.25,
+          "media_tropeiro": 40.41,
+          "nota_animal": 48.25,
+          "nota_total": 363.75,
+          "posicao": 8,
+          "saida": 1,
+          "tropeiro": "CIA JB"
+        },
+        {
+          "animal": "BRIGA DE GALO",
+          "etapa": [
+            {
+              "animal": "BRIGA DE GALO",
+              "fator": 1,
+              "id_animal": 530,
+              "id_tropeiro": 96,
+              "nota": 48.25,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 96,
+          "media": 48.25,
+          "media_tropeiro": 40.41,
+          "nota_animal": 48.25,
+          "nota_total": 363.75,
+          "posicao": 8,
+          "saida": 1,
+          "tropeiro": "CIA JB"
+        },
+        {
+          "animal": "CANHOTO",
+          "etapa": [
+            {
+              "animal": "CANHOTO",
+              "fator": 1,
+              "id_animal": 536,
+              "id_tropeiro": 96,
+              "nota": 47.5,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 96,
+          "media": 47.5,
+          "media_tropeiro": 40.41,
+          "nota_animal": 47.5,
+          "nota_total": 363.75,
+          "posicao": 9,
+          "saida": 1,
+          "tropeiro": "CIA JB"
+        },
+        {
+          "animal": "CORINGA",
+          "etapa": [
+            {
+              "animal": "CORINGA",
+              "fator": 1,
+              "id_animal": 526,
+              "id_tropeiro": 96,
+              "nota": 46.75,
+              "rodada": "ROUND 2"
+            }
+          ],
+          "id_tropeiro": 96,
+          "media": 46.75,
+          "media_tropeiro": 40.41,
+          "nota_animal": 46.75,
+          "nota_total": 363.75,
+          "posicao": 10,
+          "saida": 1,
+          "tropeiro": "CIA JB"
+        },
+        {
+          "animal": "BALADA",
+          "etapa": [
+            {
+              "animal": "BALADA",
+              "fator": 1,
+              "id_animal": 528,
+              "id_tropeiro": 96,
+              "nota": 45.75,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 96,
+          "media": 45.75,
+          "media_tropeiro": 40.41,
+          "nota_animal": 45.75,
+          "nota_total": 363.75,
+          "posicao": 11,
+          "saida": 1,
+          "tropeiro": "CIA JB"
+        },
+        {
+          "animal": "CAFÉ AMARGO",
+          "etapa": [
+            {
+              "animal": "CAFÉ AMARGO",
+              "fator": 1,
+              "id_animal": 527,
+              "id_tropeiro": 96,
+              "nota": 44.5,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 96,
+          "media": 44.5,
+          "media_tropeiro": 40.41,
+          "nota_animal": 44.5,
+          "nota_total": 363.75,
+          "posicao": 14,
+          "saida": 1,
+          "tropeiro": "CIA JB"
+        },
+        {
+          "animal": "CANADA",
+          "etapa": [
+            {
+              "animal": "CANADA",
+              "fator": 1,
+              "id_animal": 558,
+              "id_tropeiro": 96,
+              "nota": 39.75,
+              "rodada": "ROUND 2"
+            }
+          ],
+          "id_tropeiro": 96,
+          "media": 39.75,
+          "media_tropeiro": 40.41,
+          "nota_animal": 39.75,
+          "nota_total": 363.75,
+          "posicao": 16,
+          "saida": 1,
+          "tropeiro": "CIA JB"
+        },
+        {
+          "animal": "012",
+          "etapa": [
+            {
+              "animal": "012",
+              "fator": 1,
+              "id_animal": 557,
+              "id_tropeiro": 96,
+              "nota": 22.25,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 96,
+          "media": 22.25,
+          "media_tropeiro": 40.41,
+          "nota_animal": 22.25,
+          "nota_total": 363.75,
+          "posicao": 19,
+          "saida": 1,
+          "tropeiro": "CIA JB"
+        },
+        {
+          "animal": "PREDADOR",
+          "etapa": [
+            {
+              "animal": "PREDADOR",
+              "fator": 1,
+              "id_animal": 532,
+              "id_tropeiro": 96,
+              "nota": 20.75,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 96,
+          "media": 20.75,
+          "media_tropeiro": 40.41,
+          "nota_animal": 20.75,
+          "nota_total": 363.75,
+          "posicao": 21,
+          "saida": 1,
+          "tropeiro": "CIA JB"
+        }
+      ],
+      "cidade": "CRISÓLITA - MG",
+      "id": 96,
+      "media": 40.41,
+      "nota_dif": 8.21,
+      "nota_total": 363.75,
+      "posicao": 3,
+      "qtde_animais": 9,
+      "qtde_saidas": 9,
+      "tropeiro": "CIA JB"
+    },
+    {
+      "animal": [
+        {
+          "animal": "ÓREO",
+          "etapa": [
+            {
+              "animal": "ÓREO",
+              "fator": 1,
+              "id_animal": 547,
+              "id_tropeiro": 100,
+              "nota": 50,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 100,
+          "media": 50,
+          "media_tropeiro": 35.85,
+          "nota_animal": 50,
+          "nota_total": 251,
+          "posicao": 6,
+          "saida": 1,
+          "tropeiro": "CIA MC"
+        },
+        {
+          "animal": "GUERREIRO",
+          "etapa": [
+            {
+              "animal": "GUERREIRO",
+              "fator": 1,
+              "id_animal": 555,
+              "id_tropeiro": 100,
+              "nota": 44.75,
+              "rodada": "ROUND 2"
+            }
+          ],
+          "id_tropeiro": 100,
+          "media": 44.75,
+          "media_tropeiro": 35.85,
+          "nota_animal": 44.75,
+          "nota_total": 251,
+          "posicao": 13,
+          "saida": 1,
+          "tropeiro": "CIA MC"
+        },
+        {
+          "animal": "CORROSIVO",
+          "etapa": [
+            {
+              "animal": "CORROSIVO",
+              "fator": 1,
+              "id_animal": 551,
+              "id_tropeiro": 100,
+              "nota": 44.5,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 100,
+          "media": 44.5,
+          "media_tropeiro": 35.85,
+          "nota_animal": 44.5,
+          "nota_total": 251,
+          "posicao": 14,
+          "saida": 1,
+          "tropeiro": "CIA MC"
+        },
+        {
+          "animal": "GATO PRETO",
+          "etapa": [
+            {
+              "animal": "GATO PRETO",
+              "fator": 1,
+              "id_animal": 554,
+              "id_tropeiro": 100,
+              "nota": 42.5,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 100,
+          "media": 42.5,
+          "media_tropeiro": 35.85,
+          "nota_animal": 42.5,
+          "nota_total": 251,
+          "posicao": 15,
+          "saida": 1,
+          "tropeiro": "CIA MC"
+        },
+        {
+          "animal": "PIXOTE",
+          "etapa": [
+            {
+              "animal": "PIXOTE",
+              "fator": 1,
+              "id_animal": 548,
+              "id_tropeiro": 100,
+              "nota": 25,
+              "rodada": "ROUND 1"
+            }
+          ],
+          "id_tropeiro": 100,
+          "media": 25,
+          "media_tropeiro": 35.85,
+          "nota_animal": 25,
+          "nota_total": 251,
+          "posicao": 18,
+          "saida": 1,
+          "tropeiro": "CIA MC"
+        },
+        {
+          "animal": "CAXIMBO",
+          "etapa": [
+            {
+              "animal": "CAXIMBO",
+              "fator": 1,
+              "id_animal": 546,
+              "id_tropeiro": 100,
+              "nota": 22.25,
+              "rodada": "ROUND 2"
+            }
+          ],
+          "id_tropeiro": 100,
+          "media": 22.25,
+          "media_tropeiro": 35.85,
+          "nota_animal": 22.25,
+          "nota_total": 251,
+          "posicao": 19,
+          "saida": 1,
+          "tropeiro": "CIA MC"
+        },
+        {
+          "animal": "ENTORTA BICHO",
+          "etapa": [
+            {
+              "animal": "ENTORTA BICHO",
+              "fator": 1,
+              "id_animal": 549,
+              "id_tropeiro": 100,
+              "nota": 22,
+              "rodada": "ROUND 2"
+            }
+          ],
+          "id_tropeiro": 100,
+          "media": 22,
+          "media_tropeiro": 35.85,
+          "nota_animal": 22,
+          "nota_total": 251,
+          "posicao": 20,
+          "saida": 1,
+          "tropeiro": "CIA MC"
+        }
+      ],
+      "cidade": "MONTE AZUL - SP",
+      "id": 100,
+      "media": 35.85,
+      "nota_dif": 12.77,
+      "nota_total": 251,
+      "posicao": 4,
+      "qtde_animais": 7,
+      "qtde_saidas": 7,
+      "tropeiro": "CIA MC"
+    }
+  ],
+  "professionals": [
+    {
+      "id": 221,
+      "id_evento": 86,
+      "id_profissional": 58,
+      "profissional": "JOAO CARLOS",
+      "id_profissao": 5,
+      "profissao": "JUIZ DE ARENA\r\n",
+      "lado": "",
+      "cidade": "ESPIRITO SANTO PINHAL",
+      "uf": "SP",
+      "rg": "",
+      "cpf": ""
+    },
+    {
+      "id": 192,
+      "id_evento": 86,
+      "id_profissional": 128,
+      "profissional": "ERIC VIEIRA",
+      "id_profissao": 3,
+      "profissao": "DIRETOR RODEIO",
+      "lado": "",
+      "cidade": "JACAREI",
+      "uf": "SP",
+      "rg": "",
+      "cpf": ""
+    },
+    {
+      "id": 191,
+      "id_evento": 86,
+      "id_profissional": 129,
+      "profissional": "DADA",
+      "id_profissao": 1,
+      "profissao": "ANIMADOR ARENA",
+      "lado": "",
+      "cidade": "SANTA CRUX",
+      "uf": "SP",
+      "rg": "",
+      "cpf": ""
+    }
+  ],
+  "ocorrencias": [
+    {
+      "id": 1,
+      "ocorrencia": "APELO"
+    },
+    {
+      "id": 2,
+      "ocorrencia": "ANIMAL CAIU"
+    },
+    {
+      "id": 3,
+      "ocorrencia": "ANIMAL NAO VEIO"
+    },
+    {
+      "id": 4,
+      "ocorrencia": "CONCLUIDO"
+    },
+    {
+      "id": 5,
+      "ocorrencia": "CORTE-ANIMAL"
+    },
+    {
+      "id": 6,
+      "ocorrencia": "CLOCK"
+    },
+    {
+      "id": 7,
+      "ocorrencia": "CORTE-COMPETIDOR"
+    },
+    {
+      "id": 8,
+      "ocorrencia": "ESPORA NA CORDA"
+    },
+    {
+      "id": 9,
+      "ocorrencia": "MACHUCOU"
+    },
+    {
+      "id": 10,
+      "ocorrencia": "MAO NA FERRAGEM"
+    },
+    {
+      "id": 11,
+      "ocorrencia": "RE-RIDER"
+    },
+    {
+      "id": 12,
+      "ocorrencia": "SOLTOU"
+    }
+  ]
+}
